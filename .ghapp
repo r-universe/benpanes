@@ -1,0 +1,10 @@
+{
+  "id": 175890802,
+  "created_at": "2026-10-27T16:48:04.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["benpanes.r-universe.dev"]
+}
